@@ -1,0 +1,15 @@
+01/css - basically it state that beside the Sidebar in the Main rest of the width will only given to Main-Content,not to others. 
+
+02/css - Here the (1rem = 16px) because of its parent root by Default.
+
+03/css - Given flex Direction as column makes all the content sets vertically set , if we want items to be horizonatlly set , give flex diection as row.
+
+04/css - Line Height is probabaly the best way to set the  Area taken by a single line (content/item) .
+
+05/html - Setting the Opacity of the Home as 1 beacause we have set the "nav-option" class's opacity as 0.7 & Home has the same class also we don't  want home to loose its opacity.
+
+06/html - By giving "lib-ption" another name as "nav-option" we basically want to give the exact same styling to lib-Option class that's it.
+
+07/css - buttons get the border by default ,so we are making it as no border.
+
+08/html - using "step" is basically increasing or decreasing "ONE" at a time.
